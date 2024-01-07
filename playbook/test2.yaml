@@ -1,0 +1,7 @@
+- name: Test2
+  hosts: all
+  tasks:
+
+    - name: Display Test2
+      debug:
+        msg: "test2"
