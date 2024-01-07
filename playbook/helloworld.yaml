@@ -4,4 +4,4 @@
 
     - name: Display Hello
       debug:
-        mesg: "Hello"
+        msg: "Hello"
