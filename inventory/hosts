@@ -1,4 +1,4 @@
 [friends]
-lmt-store-03.hgst.com description="i am 03"
-lmt-store-04.hgst.com description="i am 04"
-lmt-store-05.hgst.com description="i am 05"
+lmt-store-03.hgst.com description="i am 03" _awx_description="am 03"
+lmt-store-04.hgst.com description="i am 04" _awx_description="am 04"
+lmt-store-05.hgst.com description="i am 05" _awx_description="am 05"
