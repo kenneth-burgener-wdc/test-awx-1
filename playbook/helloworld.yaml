@@ -4,4 +4,4 @@
 
     - name: Display Hello
       debug:
-        msg: "Hello {{ ansible_hostname }} - {{ description }} - {{ something }}."
+        msg: "Hello {{ ansible_hostname }} - {{ description }} - {{  _awx_description }} - {{ something }}."
